@@ -1,0 +1,157 @@
+  
+[
+   {
+      "titel": "Elon Musk",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/4/7/4/9200000051724741.jpg",
+      "auteur": ["Ashlee Vance"],
+      "uitgave": "februari 2016",
+      "paginas": 448,
+      "taal": "Nederlands",
+      "ean": "9789400507142",
+      "onderwerp": "Management",
+      "uitgever": "Lev."
+   },
+   {
+      "titel": "Steve Jobs",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/4/8/4/9200000045944841.jpg",
+      "auteur": ["Walter Isaacson"],
+      "uitgave": "juli 2018",
+      "ean": "9789000348640",
+      "paginas": 744,
+      "taal": "Nederlands",
+      "onderwerp": "Ondernemers & bedrijven",
+      "uitgever": "Spectrum"
+   },
+   {
+      "titel": "Einstein",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/2/8/8/8/9200000035988882.jpg",
+      "auteur": ["Walter Isaacson"],
+      "uitgave": "april 2015",
+      "ean": "9789000342655",
+      "paginas": 664,
+      "taal": "Engels",
+      "onderwerp": "Geschiedenis",
+      "uitgever": "Spectrum"
+   },
+   {
+      "titel": "Mr. Amazon",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/7/2/8/9200000009718279.jpg",
+      "auteur": ["Brad Stone"],
+      "uitgave": "november 2013",
+      "ean": "9789047005353",
+      "paginas": 288,
+      "taal": "Nederlands",
+      "onderwerp": "Bedrijfsleven & Management",
+      "uitgever": "Business Contact"
+   },
+   {
+      "titel": "Front-End Web Development",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/4/4/1/7/9200000050597144.jpg",
+      "auteur": ["Chris Aquino", "Todd Gandee"],
+      "uitgave": "juni 2016",
+      "paginas": 300,
+      "taal": "Engels",
+      "ean": "9780134433943",
+      "onderwerp": "Web programmeren",
+      "uitgever": "Pearson Education (Us)"
+   },
+   {
+      "titel": "Dog Man",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/7/3/5/9200000091585376.jpg",
+      "auteur": ["Dav Pilkey"],
+      "uitgave": "juni 2018",
+      "paginas": 231,
+      "taal": "Nederlands",
+      "ean": "9789492899019",
+      "onderwerp": "Kinderboeken",
+      "uitgever": "Condor"
+   },
+   {
+      "titel": "Hema",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/5/5/3/6/9200000091266355.jpg",
+      "auteur": ["Stefan Vermeulen"],
+      "uitgave": "november 2018",
+      "paginas": 288,
+      "taal": "Nederlands",
+      "ean": "9781785881008",
+      "onderwerp": "Ondernemers & bedrijven",
+      "uitgever": "Prometheus"
+   },
+   {
+      "titel": "VEG",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/3/1/8/9200000107638139.jpg",
+      "auteur": ["Jamie Oliver"],
+      "uitgave": "augustus 2019",
+      "paginas": 312,
+      "taal": "Nederlands",
+      "ean": "9789021573397",
+      "onderwerp": "Kookboeken",
+      "uitgever": "Kosmos Uitgevers"
+   },
+   {
+      "titel": "Zij die moet sterven",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/0/6/9/9200000107459600.jpg",
+      "auteur": ["David Lagercrantz"],
+      "uitgave": "augustus 2019",
+      "paginas": 304,
+      "taal": "Nederlands",
+      "ean": "9789056725723",
+      "onderwerp": "Thrillers & Spanning",
+      "uitgever": "Signatuur"
+   },
+   {
+      "titel": "De Geschiedenis van Nederland in 100 oude kaarten",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/5/3/8/9200000103398351.jpg",
+      "auteur": ["Marieke van Delft"],
+      "uitgave": "juni 2019",
+      "paginas": 400,
+      "taal": "Nederlands",
+      "ean": "9789401459075",
+      "onderwerp": "Historische kaarten",
+      "uitgever": "Lannoo"
+   },
+   {
+      "titel": "Wees onzichtbaar",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/4/1/2/9200000071452143.jpg",
+      "auteur": ["Murat Isik"],
+      "uitgave": "mei 2019",
+      "paginas": 597,
+      "taal": "Nederlands",
+      "ean": "9789041422903",
+      "onderwerp": "Literatuur & Romans",
+      "uitgever": "Ambo / Anthos"
+   },
+   {
+      "titel": "Houden van dingen die niet perfect zijn",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/2/7/0/9200000095410721.jpg",
+      "auteur": ["Haemin Sunim"],
+      "uitgave": "januari 2019",
+      "paginas": 272,
+      "taal": "Nederlands",
+      "ean": "9789022583722",
+      "onderwerp": "Populaire psychologie",
+      "uitgever": "Boekerij"
+   },
+   {
+      "titel": "De Zeven Zussen",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/5/3/4/9200000089454350.jpg",
+      "auteur": ["Lucinda Riley"],
+      "uitgave": "juni 2018",
+      "paginas": 592,
+      "taal": "Nederlands",
+      "ean": "9789401609371",
+      "onderwerp": "Literatuur & Romans",
+      "uitgever": "Xander Uitgevers B.V."
+   },
+   {
+      "titel": "Hands-On Full-Stack Web Development with ASP.NET Core",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/1/9/1/9200000101541919.jpg",
+      "auteur": ["Tamir Dresher", "Amir Zuker", "Shay Friedman"],
+      "uitgave": "oktober 2018",
+      "paginas": 478,
+      "taal": "Engels",
+      "ean": "9781788622882",
+      "onderwerp": "Web programmeren",
+      "uitgever": "Packt Publishing"
+   }
+]
